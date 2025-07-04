@@ -1,0 +1,504 @@
+{
+  "b1": [
+    {
+      "russian": "работа",
+      "phonetic": "рабо́та",
+      "translation": "工作"
+    },
+    {
+      "russian": "книга",
+      "phonetic": "кни́га",
+      "translation": "书"
+    },
+    {
+      "russian": "стол",
+      "phonetic": "стол",
+      "translation": "桌子"
+    },
+    {
+      "russian": "учиться",
+      "phonetic": "учи́ться",
+      "translation": "学习"
+    },
+    {
+      "russian": "семья",
+      "phonetic": "семья́",
+      "translation": "家庭"
+    },
+    {
+      "russian": "город",
+      "phonetic": "го́род",
+      "translation": "城市"
+    },
+    {
+      "russian": "дорога",
+      "phonetic": "доро́га",
+      "translation": "道路"
+    },
+    {
+      "russian": "магазин",
+      "phonetic": "магази́н",
+      "translation": "商店"
+    },
+    {
+      "russian": "школа",
+      "phonetic": "шко́ла",
+      "translation": "学校"
+    },
+    {
+      "russian": "преподаватель",
+      "phonetic": "преподава́тель",
+      "translation": "教师"
+    },
+    {
+      "russian": "студент",
+      "phonetic": "студе́нт",
+      "translation": "大学生"
+    },
+    {
+      "russian": "язык",
+      "phonetic": "язы́к",
+      "translation": "语言/舌头"
+    },
+    {
+      "russian": "вечер",
+      "phonetic": "ве́чер",
+      "translation": "晚上"
+    },
+    {
+      "russian": "неделя",
+      "phonetic": "неде́ля",
+      "translation": "星期"
+    },
+    {
+      "russian": "месяц",
+      "phonetic": "ме́сяц",
+      "translation": "月份"
+    },
+    {
+      "russian": "год",
+      "phonetic": "год",
+      "translation": "年"
+    },
+    {
+      "russian": "друг",
+      "phonetic": "друг",
+      "translation": "朋友（男）"
+    },
+    {
+      "russian": "подруга",
+      "phonetic": "подру́га",
+      "translation": "朋友（女）"
+    },
+    {
+      "russian": "здоровье",
+      "phonetic": "здоровье",
+      "translation": "健康"
+    },
+    {
+      "russian": "время",
+      "phonetic": "вре́мя",
+      "translation": "时间"
+    },
+    {
+      "russian": "работа",
+      "phonetic": "рабо́та",
+      "translation": "工作"
+    },
+    {
+      "russian": "книга",
+      "phonetic": "кни́га",
+      "translation": "书"
+    },
+    {
+      "russian": "стол",
+      "phonetic": "стол",
+      "translation": "桌子"
+    },
+    {
+      "russian": "учиться",
+      "phonetic": "учи́ться",
+      "translation": "学习"
+    },
+    {
+      "russian": "семья",
+      "phonetic": "семья́",
+      "translation": "家庭"
+    },
+    {
+      "russian": "город",
+      "phonetic": "го́род",
+      "translation": "城市"
+    },
+    {
+      "russian": "дорога",
+      "phonetic": "доро́га",
+      "translation": "道路"
+    },
+    {
+      "russian": "магазин",
+      "phonetic": "магази́н",
+      "translation": "商店"
+    },
+    {
+      "russian": "школа",
+      "phonetic": "шко́ла",
+      "translation": "学校"
+    },
+    {
+      "russian": "преподаватель",
+      "phonetic": "преподава́тель",
+      "translation": "教师"
+    },
+    {
+      "russian": "студент",
+      "phonetic": "студе́нт",
+      "translation": "大学生"
+    },
+    {
+      "russian": "язык",
+      "phonetic": "язы́к",
+      "translation": "语言/舌头"
+    },
+    {
+      "russian": "вечер",
+      "phonetic": "ве́чер",
+      "translation": "晚上"
+    },
+    {
+      "russian": "неделя",
+      "phonetic": "неде́ля",
+      "translation": "星期"
+    },
+    {
+      "russian": "месяц",
+      "phonetic": "ме́сяц",
+      "translation": "月份"
+    },
+    {
+      "russian": "год",
+      "phonetic": "год",
+      "translation": "年"
+    },
+    {
+      "russian": "друг",
+      "phonetic": "друг",
+      "translation": "朋友（男）"
+    },
+    {
+      "russian": "подруга",
+      "phonetic": "подру́га",
+      "translation": "朋友（女）"
+    },
+    {
+      "russian": "здоровье",
+      "phonetic": "здоровье",
+      "translation": "健康"
+    },
+    {
+      "russian": "время",
+      "phonetic": "вре́мя",
+      "translation": "时间"
+    },
+    {
+      "russian": "работа",
+      "phonetic": "рабо́та",
+      "translation": "工作"
+    },
+    {
+      "russian": "книга",
+      "phonetic": "кни́га",
+      "translation": "书"
+    },
+    {
+      "russian": "стол",
+      "phonetic": "стол",
+      "translation": "桌子"
+    },
+    {
+      "russian": "учиться",
+      "phonetic": "учи́ться",
+      "translation": "学习"
+    },
+    {
+      "russian": "семья",
+      "phonetic": "семья́",
+      "translation": "家庭"
+    },
+    {
+      "russian": "город",
+      "phonetic": "го́род",
+      "translation": "城市"
+    },
+    {
+      "russian": "дорога",
+      "phonetic": "доро́га",
+      "translation": "道路"
+    },
+    {
+      "russian": "магазин",
+      "phonetic": "магази́н",
+      "translation": "商店"
+    },
+    {
+      "russian": "школа",
+      "phonetic": "шко́ла",
+      "translation": "学校"
+    },
+    {
+      "russian": "преподаватель",
+      "phonetic": "преподава́тель",
+      "translation": "教师"
+    },
+    {
+      "russian": "студент",
+      "phonetic": "студе́нт",
+      "translation": "大学生"
+    },
+    {
+      "russian": "язык",
+      "phonetic": "язы́к",
+      "translation": "语言/舌头"
+    },
+    {
+      "russian": "вечер",
+      "phonetic": "ве́чер",
+      "translation": "晚上"
+    },
+    {
+      "russian": "неделя",
+      "phonetic": "неде́ля",
+      "translation": "星期"
+    },
+    {
+      "russian": "месяц",
+      "phonetic": "ме́сяц",
+      "translation": "月份"
+    },
+    {
+      "russian": "год",
+      "phonetic": "год",
+      "translation": "年"
+    },
+    {
+      "russian": "друг",
+      "phonetic": "друг",
+      "translation": "朋友（男）"
+    },
+    {
+      "russian": "подруга",
+      "phonetic": "подру́га",
+      "translation": "朋友（女）"
+    },
+    {
+      "russian": "здоровье",
+      "phonetic": "здоровье",
+      "translation": "健康"
+    },
+    {
+      "russian": "время",
+      "phonetic": "вре́мя",
+      "translation": "时间"
+    },
+    {
+      "russian": "работа",
+      "phonetic": "рабо́та",
+      "translation": "工作"
+    },
+    {
+      "russian": "книга",
+      "phonetic": "кни́га",
+      "translation": "书"
+    },
+    {
+      "russian": "стол",
+      "phonetic": "стол",
+      "translation": "桌子"
+    },
+    {
+      "russian": "учиться",
+      "phonetic": "учи́ться",
+      "translation": "学习"
+    },
+    {
+      "russian": "семья",
+      "phonetic": "семья́",
+      "translation": "家庭"
+    },
+    {
+      "russian": "город",
+      "phonetic": "го́род",
+      "translation": "城市"
+    },
+    {
+      "russian": "дорога",
+      "phonetic": "доро́га",
+      "translation": "道路"
+    },
+    {
+      "russian": "магазин",
+      "phonetic": "магази́н",
+      "translation": "商店"
+    },
+    {
+      "russian": "школа",
+      "phonetic": "шко́ла",
+      "translation": "学校"
+    },
+    {
+      "russian": "преподаватель",
+      "phonetic": "преподава́тель",
+      "translation": "教师"
+    },
+    {
+      "russian": "студент",
+      "phonetic": "студе́нт",
+      "translation": "大学生"
+    },
+    {
+      "russian": "язык",
+      "phonetic": "язы́к",
+      "translation": "语言/舌头"
+    },
+    {
+      "russian": "вечер",
+      "phonetic": "ве́чер",
+      "translation": "晚上"
+    },
+    {
+      "russian": "неделя",
+      "phonetic": "неде́ля",
+      "translation": "星期"
+    },
+    {
+      "russian": "месяц",
+      "phonetic": "ме́сяц",
+      "translation": "月份"
+    },
+    {
+      "russian": "год",
+      "phonetic": "год",
+      "translation": "年"
+    },
+    {
+      "russian": "друг",
+      "phonetic": "друг",
+      "translation": "朋友（男）"
+    },
+    {
+      "russian": "подруга",
+      "phonetic": "подру́га",
+      "translation": "朋友（女）"
+    },
+    {
+      "russian": "здоровье",
+      "phonetic": "здоровье",
+      "translation": "健康"
+    },
+    {
+      "russian": "время",
+      "phonetic": "вре́мя",
+      "translation": "时间"
+    },
+    {
+      "russian": "работа",
+      "phonetic": "рабо́та",
+      "translation": "工作"
+    },
+    {
+      "russian": "книга",
+      "phonetic": "кни́га",
+      "translation": "书"
+    },
+    {
+      "russian": "стол",
+      "phonetic": "стол",
+      "translation": "桌子"
+    },
+    {
+      "russian": "учиться",
+      "phonetic": "учи́ться",
+      "translation": "学习"
+    },
+    {
+      "russian": "семья",
+      "phonetic": "семья́",
+      "translation": "家庭"
+    },
+    {
+      "russian": "город",
+      "phonetic": "го́род",
+      "translation": "城市"
+    },
+    {
+      "russian": "дорога",
+      "phonetic": "доро́га",
+      "translation": "道路"
+    },
+    {
+      "russian": "магазин",
+      "phonetic": "магази́н",
+      "translation": "商店"
+    },
+    {
+      "russian": "школа",
+      "phonetic": "шко́ла",
+      "translation": "学校"
+    },
+    {
+      "russian": "преподаватель",
+      "phonetic": "преподава́тель",
+      "translation": "教师"
+    },
+    {
+      "russian": "студент",
+      "phonetic": "студе́нт",
+      "translation": "大学生"
+    },
+    {
+      "russian": "язык",
+      "phonetic": "язы́к",
+      "translation": "语言/舌头"
+    },
+    {
+      "russian": "вечер",
+      "phonetic": "ве́чер",
+      "translation": "晚上"
+    },
+    {
+      "russian": "неделя",
+      "phonetic": "неде́ля",
+      "translation": "星期"
+    },
+    {
+      "russian": "месяц",
+      "phonetic": "ме́сяц",
+      "translation": "月份"
+    },
+    {
+      "russian": "год",
+      "phonetic": "год",
+      "translation": "年"
+    },
+    {
+      "russian": "друг",
+      "phonetic": "друг",
+      "translation": "朋友（男）"
+    },
+    {
+      "russian": "подруга",
+      "phonetic": "подру́га",
+      "translation": "朋友（女）"
+    },
+    {
+      "russian": "здоровье",
+      "phonetic": "здоровье",
+      "translation": "健康"
+    },
+    {
+      "russian": "время",
+      "phonetic": "вре́мя",
+      "translation": "时间"
+    }
+  ]
+}
